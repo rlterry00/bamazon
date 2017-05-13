@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "hw 10",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlterry00/bamazon.git"
+  },
+  "author": "R.L. Terry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlterry00/bamazon/issues"
+  },
+  "homepage": "https://github.com/rlterry00/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
